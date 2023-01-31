@@ -16,3 +16,5 @@ _____
 * England  
 * Austrila 
 * Pakstian 
+_____
+![Click here to know about me](https://github.com/JoyceLingam/assignment2-lingam/blob/main/AboutMe.md)
