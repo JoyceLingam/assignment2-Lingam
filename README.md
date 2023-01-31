@@ -10,3 +10,9 @@ ____
 1. M.S Dhoni
 2. Virat Kholi 
 3. Bravo
+_____
+# Other Teams
+
+* England  
+* Austrila 
+* Pakstian 
