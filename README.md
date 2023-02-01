@@ -24,7 +24,8 @@ ___
 # To create a table with 4 countries
 
 This table contains my favorite countries to travel
-|**Countries**||**Where to go**||**Number of days**|
+
+|**Countries**|**Where to go**|**Number of days**|
 |-------------|----------------|----------------|
 |Spain|Visit Prado Museum|2 days|
 |Russia|Visit Huge Siberian Lake|3 days|
